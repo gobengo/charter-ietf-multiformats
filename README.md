@@ -19,7 +19,7 @@ Outputs for the group will be:
 
 * A Multibase specification
 * A Multihash specification
-* A registry for Multiformats with initial entries for Multibase and Multihash
+* A registry for [Multicodecs](https://ipfs.io/ipfs/QmXec1jjwzxWJoNbxQF5KffL8q6hFXm9QwUGaa3wKGk6dT/#title=Multicodecs&src=https://raw.githubusercontent.com/multiformats/multicodec/master/table.csv) with initial entries for Multibase and Multihash
 
 The outputs from this Working Group are currently being used by various groups,
 including the W3C Verifiable Credentials Working Group, W3C Decentralized
